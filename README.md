@@ -16,7 +16,7 @@ and the run the script.
 
 You will be asked to provide the access credentials for the MetSense web archive. If you have not been given these please contact Sam Gunner who can provide some.
 
-Due to the the firstwall operated by the University of Bristol, files can only be downloaded from within campus or via a VPN.
+Due to the the firewall operated by the University of Bristol, files can only be downloaded from within campus or via a VPN.
 
 The files to download are given in:
 
@@ -24,4 +24,4 @@ The files to download are given in:
 files_to_download.txt
 ```
 
-There are currenlt 195 files, which when uncompressed are 500MB each... simply remove files from that file if ou do not want them to be included.
+There are currenlt 195 files, which when uncompressed are 500MB each... simply remove files from that list file if you do not want them to be included.
